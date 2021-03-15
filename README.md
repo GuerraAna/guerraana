@@ -4,7 +4,7 @@ Analysis and Systems Development Student
 
 :rocket:  Skills: Mobile Development (Android) and UX;
 
-:rainbow:  Currently studying: Kotlin, JavaScript and UX Design;
+:rainbow:  Currently studying: JavaScript and UX Design;
 
 :computer:  Tools: Kotlin, Android Studio, GitHub, Figma;
 
