@@ -2,7 +2,7 @@
 
 Analysis and Systems Development Student
 
-:rocket:  Skills: Mobile Development (Android) and UX Design;
+:rocket:  Skills: Mobile Development (Android);
 
 :rainbow:  Currently studying: JavaScript and UX Design;
 
