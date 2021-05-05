@@ -4,9 +4,9 @@ Analysis and Systems Development Student
 
 :rocket:  Skills: Mobile Development (Android);
 
-:rainbow:  Currently studying: JavaScript and UX Design;
+:rainbow:  Currently studying: Java and UX Design;
 
-:computer:  Tools: Kotlin, Android Studio, GitHub, Figma;
+:computer:  Tools: Kotlin, Android Studio, Git, Figma;
 
 💌   Social networks: <p align="center">
     <a href="https://www.linkedin.com/in/ana-clara-guerra-740437147/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
