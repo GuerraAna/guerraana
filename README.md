@@ -1,12 +1,13 @@
 # Hi, I'm Ana Clara Guerra :wave::smiley:
 
-Analysis and Systems Development Student
+Analysis Development Student
+Android Engineer
 
-:rocket:  Skills: Mobile Development (Android);
+:rocket:  Skills: Mobile Development (Android - Kotin and Java);
 
-:rainbow:  Currently studying: Java and UX Design;
+:rainbow:  Currently studying: Java, JavaScript, C#, Flutter and AWS;
 
-:computer:  Tools: Kotlin, Android Studio, Git, Figma;
+:computer:  Tools: Kotlin, Android Studio, Git, Figma, GitLab, GitHub, GitCorp, Visual Studio Code;
 
 💌   Social networks: <p align="center">
     <a href="https://www.linkedin.com/in/ana-clara-guerra-740437147/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
