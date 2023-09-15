@@ -1,7 +1,6 @@
 # Hi, I'm Ana Clara Guerra :wave::smiley:
 
-Analysis Development Student
-Android Engineer
+Systems analytic and software developer
 
 :rocket:  Skills: Mobile Development (Android - Kotin and Java);
 
