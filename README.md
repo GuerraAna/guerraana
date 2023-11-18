@@ -4,7 +4,7 @@ Systems analytic and software developer
 
 :rocket:  Skills: Mobile Development (Android - Kotin and Java);
 
-:rainbow:  Currently studying: Java, JavaScript, C#, Flutter and AWS;
+:rainbow:  Currently studying: Kotlin, Compose, KMP, Python and Java
 
 :computer:  Tools: Kotlin, Android Studio, Git, Figma, GitLab, GitHub Actions, GitCorp, Visual Studio Code, Artifactory, Splunk, Java, Google Analytics Universal, Google Analytics 4, firebase, custom views, MVVM;
 
