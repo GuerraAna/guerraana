@@ -2,11 +2,11 @@
 
 Systems analytic and software developer
 
-:rocket:  Skills: Mobile Development (Android - Kotin and Java);
+:rocket:  Skills: Mobile Development (Android - Kotlin and Java);
 
 :rainbow:  Currently studying: Kotlin, Compose, KMM/KMP, Python and Java
 
-:computer:  Tools: Kotlin, Android Studio, Git, Figma, GitLab, GitHub Actions, GitCorp, Visual Studio Code, Artifactory, Splunk, Java, Google Analytics Universal, Google Analytics 4, firebase, custom views, MVVM;
+:computer:  Tools: Kotlin, Android Studio, Git, Figma, GitLab, GitHub Actions, GitCorp, Visual Studio Code, Artifactory, Splunk, Java, Google Analytics Universal, Google Analytics 4, firebase, custom views, MVVM, CMS Healdess, Retrofit, Clean Code, SOLID, Desgin Patterns, Mockk, JUnit 4 e 5;
 
 💌   Social networks: <p align="center">
     <a href="https://www.linkedin.com/in/ana-clara-guerra-740437147/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
