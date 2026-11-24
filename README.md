@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuerraAna/guerraana/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuerraAna/guerraana/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuerraAna/guerraana/output/github-contribution-grid-snake.svg">
-</picture>
-
 # Hi, I'm Ana Clara Guerra :wave::smiley:
 
 Systems analytic and software developer
@@ -17,3 +11,14 @@ Systems analytic and software developer
 💌   Social networks: <p align="start">
     <a href="https://www.linkedin.com/in/ana-clara-guerra-740437147/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+
+
+<img src="https://ghchart.rshah.org/GuerraAna" alt="Contribution calendar - commits by day, week and month" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuerraAna/guerraana/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuerraAna/guerraana/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuerraAna/guerraana/output/github-contribution-grid-snake.svg">
+</picture>
+
+
